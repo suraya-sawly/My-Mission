@@ -1,0 +1,155 @@
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: larger;
+    margin: 2%;
+}
+.stay{
+    width: 50%;
+    padding-left: 10%;   
+}
+.Bstay{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, yellow);
+    border-image-slice: 1;
+}
+.focused{
+    padding-left: 2%;
+}
+.wd{
+    color: orange;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(245, 90, 62));
+    border-radius: 5px;
+    color: white;
+    padding: 2%;
+}
+.stay img{
+    width: 70%;
+}
+section{
+    display: flex;
+}
+
+
+
+
+
+#miss{
+    color: darkgoldenrod;
+}
+.my{
+    padding-top: 2%;
+    text-align: center;
+    
+}
+.boxes{
+    display: flex;
+    padding-left: 5%;
+}
+.box{
+    width: 55%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 3%;
+    border-radius: 5px;
+}
+
+.flexible-container{
+    display: flex;
+    
+}
+#mission{
+    
+    background-image: url(pic/pink-color.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+.box img{
+    padding-top: 10%;
+    width: 70%;
+}
+#vission{
+    
+    background-image: url(pic/pink-color.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+#goals{
+    
+    
+    background-image: url(pic/pink-color.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.texts{
+    font-size: smaller;
+}
+
+
+.part3{
+    width: 50%;
+    padding-top: 10%;
+}
+.part3 img{
+    width: 70%;
+    padding-left: 15%;
+    background-image: url(pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#button{
+    padding-top: 10%;
+}
+
+.part4{
+    width: 50%;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.part4 img{
+    width: 70%;
+    padding-left: 5%;
+}
+#part4 img{
+    
+    padding: 10%;
+    background-image: url(pic/exp.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.part5{
+    width: 40%;
+    padding-top: 10%;
+}
+.part5 img{
+    width: 70%;
+    padding-left: 15%;
+    background-image: url(pic/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: top;
+}
+#app{
+    
+    background-image: url(pic/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: bottom;
+}
+
+footer p{
+    text-align: center;
+}
+.footer{
+    background-color: rgb(57, 40, 80);
+}
+#footer{
+    text-align: center;
+}
